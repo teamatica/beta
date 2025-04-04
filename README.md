@@ -3,7 +3,7 @@
 
 `file:` https://teamatica.org/update/Teamatica.exe
 
-`date:` 2025-03-31
+`date:` 2025-04-04
 
 `size:` 1.80 MB
 
