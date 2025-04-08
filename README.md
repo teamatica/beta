@@ -1,9 +1,9 @@
 β-test
 =============
 
-`file:` https://teamatica.org/update/Teamatica.exe / 0.1.2.6
+`file:` https://teamatica.org/update/Teamatica.exe
 
-`date:` 2025-04-08
+`date:` 2025-04-08 / 0.1.2.6
 
 `size:` 1.80 MB
 
