@@ -8,3 +8,5 @@
 `size:` 1.80 MB
 
 `scan:` https://virustotal.com/gui/file/43184fd90e33762031583144ac7902248614dfd800a2b3d391ea1e35838a621b
+
+`test:` https://app.any.run/tasks/029f774a-ca16-47aa-a309-4d1b59787773
