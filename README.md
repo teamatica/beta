@@ -7,6 +7,6 @@
 
 `size:` 1.79 MB
 
-`scan:` https://virustotal.com/gui/file/1fd0e48d7e0dc85afd59b246c2aca7d55415036e88670aa300804a4a682541af
+`scan:` https://virustotal.com/gui/file/b28a0a925d43ac436c8f4d8aed3f1b257c84d1963127dcfc0fc161bd0d933791
 
-`test:` https://app.any.run/tasks/5d51bad7-e29c-4e42-92c4-4f6ff1fdcb11
+`test:` https://app.any.run/tasks/137add33-5088-4c1e-b046-664899d95d7c
