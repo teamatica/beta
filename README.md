@@ -3,10 +3,10 @@
 
 `file:` https://teamatica.org/update/Teamatica.exe
 
-`date:` 2025-05-12 / 0.1.2.6
+`date:` 2025-05-13 / 0.1.2.6
 
 `size:` 1.80 MB
 
-`scan:` https://virustotal.com/gui/file/21f74040dddd8dd24bdb5ef4f174c24c0f8c0656d5f886bd9e94bd3f1752bb84
+`scan:` https://virustotal.com/gui/file/c25c74432eef5335732ca9a82ed76d3b8eb87a7d3d36a796428fd74153bd4199
 
-`test:` https://app.any.run/tasks/7b577923-15c1-4618-90f4-7401930ca018
+`test:` https://app.any.run/tasks/c83e5924-5dab-4400-ae3e-7f5c46a00081
