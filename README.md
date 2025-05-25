@@ -1,6 +1,8 @@
 beta
 =============
 
+`reqs:` Windows 10 Creators Update (1703)+
+
 `file:` https://teamatica.org/update/Teamatica.exe
 
 `date:` 2025-05-23 / 0.1.2.6
