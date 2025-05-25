@@ -1,4 +1,4 @@
-β-test
+beta
 =============
 
 `file:` https://teamatica.org/update/Teamatica.exe
