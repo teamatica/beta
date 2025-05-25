@@ -1,6 +1,8 @@
 beta
 =============
 
+`note:` [teamatica.org/privacy-en.txt](https://teamatica.org/privacy-en.txt)
+
 `reqs:` Windows 10 Creators Update (1703)+
 
 `file:` https://teamatica.org/update/Teamatica.exe
