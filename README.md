@@ -1,6 +1,10 @@
 beta
 =============
 
+<p align="center"><picture><img src="teamatica.webp" alt="Teamatica"></picture></p>
+
+***
+
 `note:` [en](https://teamatica.org/privacy-en.txt), [kk](https://teamatica.org/privacy-kk.txt), [ru](https://teamatica.org/privacy-ru.txt), [uk](https://teamatica.org/privacy-uk.txt)
 
 `reqs:` Windows 10 Creators Update (1703)+
